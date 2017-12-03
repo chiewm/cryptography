@@ -10,6 +10,3 @@ for i in s:
         c = 0
 
 print(m)
-
-
-
